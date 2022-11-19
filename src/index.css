@@ -87,3 +87,7 @@ a {
     width: 200px;
   }
 }
+
+div.MuiBox-root:empty {
+  display: none;
+}
